@@ -8,7 +8,7 @@ from task.app.main import run
 
 # Models to try:
 # - gpt-4o
-# - anthropic.claude-v3-haiku
+# - claude-3-7-sonnet@20250219
 # - gemini-2.5-pro
 
 run(
